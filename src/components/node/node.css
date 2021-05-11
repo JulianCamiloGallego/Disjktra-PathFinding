@@ -1,0 +1,27 @@
+.node {
+  width: 25px;
+  height: 25px;
+  outline: 1px solid black;
+  display: inline-block;
+  border-radius: 20px;
+}
+
+.pathNode {
+  background-color: darkblue;
+}
+
+.visited {
+  background-color: lightgreen;
+}
+
+.wall {
+  background-color: black;
+}
+
+.starting-node {
+  background-color: blue;
+}
+
+.end-node {
+  background-color: red;
+}
