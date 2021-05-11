@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Disjktra-PathFinding/static/css/main.136293b9.chunk.css",
+    "main.js": "/Disjktra-PathFinding/static/js/main.0e08b2de.chunk.js",
+    "main.js.map": "/Disjktra-PathFinding/static/js/main.0e08b2de.chunk.js.map",
+    "runtime-main.js": "/Disjktra-PathFinding/static/js/runtime-main.1f5a37ad.js",
+    "runtime-main.js.map": "/Disjktra-PathFinding/static/js/runtime-main.1f5a37ad.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Disjktra-PathFinding/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3dafe04d.chunk.js": "/Disjktra-PathFinding/static/js/2.3dafe04d.chunk.js",
+    "static/js/2.3dafe04d.chunk.js.map": "/Disjktra-PathFinding/static/js/2.3dafe04d.chunk.js.map",
+    "index.html": "/Disjktra-PathFinding/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Disjktra-PathFinding/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.136293b9.chunk.css.map": "/Disjktra-PathFinding/static/css/main.136293b9.chunk.css.map",
+    "static/js/2.3dafe04d.chunk.js.LICENSE.txt": "/Disjktra-PathFinding/static/js/2.3dafe04d.chunk.js.LICENSE.txt",
+    "static/js/main.0e08b2de.chunk.js.LICENSE.txt": "/Disjktra-PathFinding/static/js/main.0e08b2de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f5a37ad.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3dafe04d.chunk.js",
+    "static/css/main.136293b9.chunk.css",
+    "static/js/main.0e08b2de.chunk.js"
+  ]
+}
